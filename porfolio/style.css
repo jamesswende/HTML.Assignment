@@ -1,0 +1,199 @@
+.had{
+    display: flex;
+    padding: 15px;
+    background: rgb(56,143,142);
+    border-radius: 5px;  
+    gap: 20px; 
+}
+
+.pp{
+    /* display:flex; */
+    font-size:30px;
+    gap: 20px;
+}
+
+.d5{
+    padding: 10px;
+    background-color: black;
+    margin-top: 30px;
+    border-radius: 3px;
+    border-color: aqua;
+}
+
+#ww{ 
+    display: flex;
+    color: aliceblue;
+    font-style: italic;
+    font-size: xx-large;
+    justify-content: center;
+    
+}
+.aaa {
+    display: flex;
+    justify-content: center;
+    font-size:100px;
+    font-weight: bold;
+    color: rgba(126, 223, 70, 0.829);
+}
+
+.CONTACT{
+    display: flex;
+    padding: 20px;  
+    background-color: blueviolet;
+    width: 50vh;
+    height: 250px;
+    border-radius: 10px;
+    margin-bottom: 45px;
+    margin-left: 060px;
+    
+} 
+input{
+     display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid #5f3b3b;
+    outline: none;
+    margin-left: 40px;
+
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid #5f3b3b;
+    outline: none;
+    margin-left:  50px;
+    /* margin: 20px; */
+    margin-top: 10px;
+}
+
+form >label{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.d4{
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+  background-color: aquamarine;
+  margin: 40px;
+  border-radius: 10px;
+}
+
+.mm{
+    margin-left: 24%;
+    font-size: xx-large; 
+    padding-bottom: 20px;
+}
+
+.qq1{
+    padding: 10px;
+    background-color: rgba(105, 24, 24, 0.904)
+    ;width:80vh;
+    height: 70vh;
+    margin-top: 35px;
+    border-radius: 10px;  
+}
+
+.d3{
+    display: flex;
+    background-color: rgb(245, 213, 213);
+    margin: 30px;
+    height: 150vh;
+    border-radius: 20px;
+}
+
+#RESUME{
+    display: flex;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.res1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(66, 104, 72);
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    height: 120vh;
+    color: aliceblue;
+    margin-left: 100px;
+    margin-top: 140px;
+    width: 130%;
+    text-align: center;
+}
+
+.hp{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 1%;
+}
+
+.WORK{
+    width: 90%;
+    height: 90vh;
+    background-color: #faaaaa;
+    margin-left: 115px;
+    border-radius: 10px;
+}
+.my-work{
+    display: flex;
+    align-items: center;
+    gap: 10%;
+}
+.my-work img{
+    border-radius: 10px;
+    margin-left: 10%;
+}
+.my-work2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+    font-weight: bold;
+}
+   
+.ancho{
+    display: grid;
+    grid-column: 3/3;
+    grid-row: 1/1;
+}
+
+label{
+    display: grid;
+    grid-column: 2/2;
+    grid-row: 1/1;
+}
+
+/* about section */
+
+.d1{
+    background-color: rgb(72, 72, 230);
+    width: 97%;
+    height: 100vh;
+    margin-left: 1%;
+    border-radius:10px;
+}
+
+#ABOUT{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    width: 80vh;
+    height: 80vh;
+    margin-top: 5%;
+    border-radius: 10px;
+    background-color: rgb(120, 168, 30);
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration-thickness:10px;
+}
